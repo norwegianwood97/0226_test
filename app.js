@@ -6,7 +6,7 @@ import ProductsRouter from './routes/products.router.js';
 import ErrorHandlerMiddleware from './middlewares/error-handler.middleware.js';
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
 
 connect();
 
